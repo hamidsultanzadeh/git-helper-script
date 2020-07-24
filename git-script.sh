@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Your local branchs : "
+echo "Your local branches : "
 
 eval "git branch"
 
